@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    color: #deff1c;
+}
+
+.cor1{
+    background-color: #deff1c;
+}
+
+.efeito:hover{
+    cursor: pointer;
+    transition-duration: 1s;
+    transform: scale(1.1 , 1.1);
+}
+
+.space-1{
+    margin-top: 100px;
+    margin-bottom: 50px;
+
+}
+
+
+.tamanho-letra{
+    font-size: 80px;
+}
+
+.space{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.back-fund-input{
+    background-color: #deff1c;
+    font-weight: bold;
+    color: black;
+   
+
+}
